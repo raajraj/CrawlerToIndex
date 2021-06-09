@@ -1,8 +1,8 @@
 # CS172 Final Project
 
-## Team member 1 - Raajitha Rajkumar 862015848
-## Team member 2 - Russell Brown 862024798
-## Team member 3 - Jason Tang 862046859
+### Team member 1 - Raajitha Rajkumar 862015848
+### Team member 2 - Russell Brown 862024798
+### Team member 3 - Jason Tang 862046859
 
 ## DESIGN
 

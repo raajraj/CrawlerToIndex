@@ -34,3 +34,6 @@ $ pip3 install elasticsearch
 $ python3 main.py
 ```
 ### Anything that is not in that format will result in an error. 
+
+[LINK TO DEMO](https://www.youtube.com/watch?v=O0p6m5bCUI8)
+

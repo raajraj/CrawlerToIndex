@@ -10,7 +10,7 @@
 
 ## HOW TO COMPILE
 
-#### Before running the project, make sure you have all the Python modules installed. You may need to run these commands after intalling Python:
+#### Before running the project, make sure you have all the Python modules installed. You may need to run these commands after installing Python:
 
 ```python
 $ pip3 install --upgrade pip
